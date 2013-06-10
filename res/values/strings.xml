@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">LoginFlow</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_restricted">RestrictedActivity</string>
+    <string name="first_activity_desc">This is a simple unrestricted activity. You can go to SecondActivity and to a RestrictedActivity. You can also login using the button on top</string>
+    <string name="second_activity_desc">This second activity doesn\'t do anything either. You can go to the first activity or to RestrictedActivity. Again, you can also login.</string>
+    <string name="restricted_activity_desc">Congratulations, you have reached the restricted Activity, meaning you successfuly logged in.</string>
+    <string name="not_logged_in">Not logged in :(</string>
+    <string name="logged_in">Logged in :)</string>
+
+</resources>
